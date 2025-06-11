@@ -16,6 +16,7 @@ Welcome to my React repository! This repo contains a variety of React projects a
 | 06currencyConverter | Currency converter React app using hooks.                    |
 | 07reactRouter       | React Router demo project with multiple route handling.      |
 | 08miniContext       | Demonstrates useContext and context provider in React.       |
+| 09themeSwitcher     | Theme switcher using React Context API & Tailwind dark mode. |
 
 ---
 
@@ -38,9 +39,11 @@ Each project folder contains its own React app setup. To run any project:
    cd 01vitereact
    npm install
    npm run dev
+   ```
 
 # About Me 🙌
- Hi, I’m Pranav! I’m learning React by building projects and exploring hooks and concepts.
+
+Hi, I’m Pranav! I’m learning React by building projects and exploring hooks and concepts.
 Feel free to explore my code, and if you want to collaborate or ask questions, reach out!
 
 License
