@@ -17,8 +17,7 @@ Welcome to my React repository! This repo contains a variety of React projects a
 | 07reactRouter       | React Router demo project with multiple route handling.      |
 | 08miniContext       | Demonstrates useContext and context provider in React.       |
 | 09themeSwitcher     | Theme switcher using React Context API & Tailwind dark mode. |
-
----
+| 10todoContextLocal  | Todo App using React Context API & localStorage.             |
 
 ## Concepts and Hooks 🏫
 
