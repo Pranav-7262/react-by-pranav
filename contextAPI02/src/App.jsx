@@ -4,7 +4,6 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import College from "./College";
 import { SubjectContext } from "./ContextData";
-import { Suspense } from "react";
 
 function App() {
   const [subject, setSubject] = useState("");
