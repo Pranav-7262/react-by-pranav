@@ -1,0 +1,12 @@
+.board-row {
+  display: flex;
+  justify-content: center;
+}
+.board-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #e6f0ff;
+}
