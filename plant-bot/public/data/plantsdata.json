@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "name": "Snake Plant",
+    "image": "https://example.com/snake.jpg",
+    "sunlight": "Low to Bright Indirect Light",
+    "water": "Once every 2–3 weeks",
+    "humidity": "Average Home Humidity",
+    "temperature": "60–85°F",
+    "description": "Low-maintenance and great for beginners."
+  },
+  {
+    "id": 2,
+    "name": "Peace Lily",
+    "image": "https://example.com/peace-lily.jpg",
+    "sunlight": "Low to Medium Light",
+    "water": "Keep soil moist",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "Beautiful and air-purifying."
+  },
+  {
+    "id": 3,
+    "name": "Spider Plant",
+    "image": "https://example.com/spider-plant.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when soil is dry",
+    "humidity": "Moderate",
+    "temperature": "60–75°F",
+    "description": "Great for hanging baskets and air purification."
+  },
+  {
+    "id": 4,
+    "name": "ZZ Plant",
+    "image": "https://example.com/zz-plant.jpg",
+    "sunlight": "Low to Bright Indirect Light",
+    "water": "Every 2–3 weeks",
+    "humidity": "Average",
+    "temperature": "65–80°F",
+    "description": "Tolerates low light and neglect."
+  },
+  {
+    "id": 5,
+    "name": "Pothos",
+    "image": "https://example.com/pothos.jpg",
+    "sunlight": "Low to Bright Indirect Light",
+    "water": "Water when top inch of soil is dry",
+    "humidity": "Moderate",
+    "temperature": "65–85°F",
+    "description": "Fast-growing and easy to propagate."
+  },
+  {
+    "id": 6,
+    "name": "Monstera Deliciosa",
+    "image": "https://example.com/monstera.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when top 2 inches of soil are dry",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "Iconic split leaves and fast-growing."
+  },
+  {
+    "id": 7,
+    "name": "Aloe Vera",
+    "image": "https://example.com/aloe-vera.jpg",
+    "sunlight": "Bright Direct or Indirect Light",
+    "water": "Water deeply but infrequently",
+    "humidity": "Low",
+    "temperature": "55–80°F",
+    "description": "Medicinal plant that loves sunlight."
+  },
+  {
+    "id": 8,
+    "name": "Rubber Plant",
+    "image": "https://example.com/rubber-plant.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when top inch of soil is dry",
+    "humidity": "Moderate to High",
+    "temperature": "60–75°F",
+    "description": "Glossy leaves and easy to grow."
+  },
+  {
+    "id": 9,
+    "name": "Philodendron",
+    "image": "https://example.com/philodendron.jpg",
+    "sunlight": "Low to Bright Indirect Light",
+    "water": "Water when top inch of soil is dry",
+    "humidity": "Moderate",
+    "temperature": "65–80°F",
+    "description": "Heart-shaped leaves and fast grower."
+  },
+  {
+    "id": 10,
+    "name": "Fiddle Leaf Fig",
+    "image": "https://example.com/fiddle-leaf-fig.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when top 2 inches of soil are dry",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "Bold and dramatic foliage."
+  },
+  {
+    "id": 11,
+    "name": "Rubber Plant",
+    "image": "https://example.com/rubber.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when top few inches of soil are dry",
+    "humidity": "Average to High",
+    "temperature": "60–75°F",
+    "description": "Features glossy, dark green leaves and can grow quite large."
+  },
+  {
+    "id": 12,
+    "name": "Calathea",
+    "image": "https://example.com/calathea.jpg",
+    "sunlight": "Low to Medium Indirect Light",
+    "water": "Keep soil consistently moist, but not soggy",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "Known for its stunning, patterned leaves that move throughout the day."
+  },
+  {
+    "id": 13,
+    "name": "Succulent (Echeveria)",
+    "image": "https://example.com/echeveria.jpg",
+    "sunlight": "Bright Light",
+    "water": "Water infrequently, allow soil to dry completely",
+    "humidity": "Low",
+    "temperature": "60–80°F",
+    "description": "A rosette-forming succulent, easy to care for with lots of sun."
+  },
+  {
+    "id": 14,
+    "name": "Jade Plant",
+    "image": "https://example.com/jade.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Allow soil to dry between waterings",
+    "humidity": "Low",
+    "temperature": "65–75°F",
+    "description": "A classic succulent with thick, woody stems and fleshy leaves."
+  },
+  {
+    "id": 15,
+    "name": "African Violet",
+    "image": "https://example.com/african-violet.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water from the bottom to avoid leaf spots",
+    "humidity": "High",
+    "temperature": "65–75°F",
+    "description": "Small, fuzzy-leafed plant with delicate, colorful flowers."
+  },
+  {
+    "id": 16,
+    "name": "Dieffenbachia",
+    "image": "https://example.com/dieffenbachia.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "Average to High",
+    "temperature": "65–80°F",
+    "description": "Features large, variegated leaves. Note: all parts are toxic if ingested."
+  },
+  {
+    "id": 17,
+    "name": "Philodendron (Heartleaf)",
+    "image": "https://example.com/philodendron.jpg",
+    "sunlight": "Low to Medium Indirect Light",
+    "water": "Allow soil to dry out between waterings",
+    "humidity": "Average",
+    "temperature": "65–75°F",
+    "description": "A fast-growing vining plant with heart-shaped leaves."
+  },
+  {
+    "id": 18,
+    "name": "Bird of Paradise",
+    "image": "https://example.com/bird-of-paradise.jpg",
+    "sunlight": "Bright Direct to Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "A large, striking plant with palm-like leaves and vibrant flowers."
+  },
+  {
+    "id": 19,
+    "name": "Swiss Cheese Plant (Monstera Adansonii)",
+    "image": "https://example.com/monstera-adansonii.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top inch of soil is dry",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "A vining relative of the Monstera, with distinctive holes in its leaves."
+  },
+  {
+    "id": 20,
+    "name": "Staghorn Fern",
+    "image": "https://example.com/staghorn-fern.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Soak it in water weekly",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "Epiphytic plant, often mounted on a board or log for display."
+  },
+  {
+    "id": 21,
+    "name": "String of Pearls",
+    "image": "https://example.com/string-of-pearls.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the 'pearls' start to shrivel",
+    "humidity": "Low",
+    "temperature": "65–80°F",
+    "description": "A unique trailing succulent with bead-like leaves."
+  },
+  {
+    "id": 22,
+    "name": "Chinese Money Plant (Pilea)",
+    "image": "https://example.com/pilea.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top inch of soil is dry",
+    "humidity": "Average",
+    "temperature": "65–75°F",
+    "description": "Features perfectly round, pancake-like leaves."
+  },
+  {
+    "id": 23,
+    "name": "Dracaena Marginata",
+    "image": "https://example.com/dracaena.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Allow soil to dry out between waterings",
+    "humidity": "Average",
+    "temperature": "65–80°F",
+    "description": "A tall, architectural plant with thin, red-edged leaves."
+  },
+  {
+    "id": 24,
+    "name": "Prayer Plant (Maranta)",
+    "image": "https://example.com/maranta.jpg",
+    "sunlight": "Low to Medium Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "60–80°F",
+    "description": "Its leaves fold up at night, resembling praying hands."
+  },
+  {
+    "id": 25,
+    "name": "Alocasia (Elephant Ear)",
+    "image": "https://example.com/alocasia.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "Features large, arrow-shaped leaves with unique veining."
+  },
+  {
+    "id": 26,
+    "name": "Schefflera (Umbrella Tree)",
+    "image": "https://example.com/schefflera.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water thoroughly, allow soil to dry between waterings",
+    "humidity": "Average",
+    "temperature": "60–75°F",
+    "description": "A popular tree-like houseplant with a compact, rounded form."
+  },
+  {
+    "id": 27,
+    "name": "Begonia",
+    "image": "https://example.com/begonia.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "Known for its striking, colorful foliage and delicate flowers."
+  },
+  {
+    "id": 28,
+    "name": "Cast Iron Plant",
+    "image": "https://example.com/cast-iron.jpg",
+    "sunlight": "Low Light",
+    "water": "Infrequently, drought tolerant",
+    "humidity": "Low to Average",
+    "temperature": "50–85°F",
+    "description": "Extremely tough and can tolerate a wide range of conditions."
+  },
+  {
+    "id": 29,
+    "name": "Fairy Washboard (Haworthiopsis)",
+    "image": "https://example.com/haworthiopsis.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Allow soil to dry completely",
+    "humidity": "Low",
+    "temperature": "60–85°F",
+    "description": "A small succulent with textured, striped leaves."
+  },
+  {
+    "id": 30,
+    "name": "Air Plant (Tillandsia)",
+    "image": "https://example.com/tillandsia.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Soak in water for 20-30 minutes once a week",
+    "humidity": "High",
+    "temperature": "50–90°F",
+    "description": "A unique plant that doesn't need soil, often displayed in terrariums."
+  },
+  {
+    "id": 31,
+    "name": "Croton",
+    "image": "https://example.com/croton.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "60–85°F",
+    "description": "Features brilliantly colored leaves with a wide range of patterns."
+  },
+  {
+    "id": 32,
+    "name": "Anthurium",
+    "image": "https://example.com/anthurium.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top inch of soil is dry",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "Known for its glossy, heart-shaped flowers and dark green leaves."
+  },
+  {
+    "id": 33,
+    "name": "Hoya (Wax Plant)",
+    "image": "https://example.com/hoya.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Allow soil to dry out between waterings",
+    "humidity": "Average to High",
+    "temperature": "60–80°F",
+    "description": "A vining plant with waxy leaves and fragrant, star-shaped flowers."
+  },
+  {
+    "id": 34,
+    "name": "Ficus Audrey",
+    "image": "https://example.com/ficus-audrey.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top 2-3 inches of soil are dry",
+    "humidity": "Average to High",
+    "temperature": "60–85°F",
+    "description": "A trendy alternative to the Fiddle Leaf Fig with velvety, round leaves."
+  },
+  {
+    "id": 35,
+    "name": "Coleus",
+    "image": "https://example.com/coleus.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "Average",
+    "temperature": "60–75°F",
+    "description": "Loved for its vibrant, multi-colored foliage."
+  },
+  {
+    "id": 36,
+    "name": "Kentia Palm",
+    "image": "https://example.com/kentia-palm.jpg",
+    "sunlight": "Low to Medium Indirect Light",
+    "water": "Water when the soil is about half dry",
+    "humidity": "Average",
+    "temperature": "65–80°F",
+    "description": "An elegant, slow-growing palm that is tolerant of low light."
+  },
+  {
+    "id": 37,
+    "name": "Ponytail Palm",
+    "image": "https://example.com/ponytail-palm.jpg",
+    "sunlight": "Bright Light",
+    "water": "Water infrequently, allow soil to dry completely",
+    "humidity": "Low",
+    "temperature": "50–85°F",
+    "description": "A unique succulent with a swollen base and a cascade of long leaves."
+  },
+  {
+    "id": 38,
+    "name": "Ti Plant (Cordyline)",
+    "image": "https://example.com/ti-plant.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "Features colorful leaves in shades of pink, red, green, and purple."
+  },
+  {
+    "id": 39,
+    "name": "Bunny Ear Cactus",
+    "image": "https://example.com/bunny-ear-cactus.jpg",
+    "sunlight": "Bright Direct to Indirect Light",
+    "water": "Water sparingly, allow soil to dry completely",
+    "humidity": "Low",
+    "temperature": "60–80°F",
+    "description": "A small cactus with two paddle-like segments resembling bunny ears."
+  },
+  {
+    "id": 40,
+    "name": "Lipstick Plant",
+    "image": "https://example.com/lipstick-plant.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "A trailing plant with dark green leaves and vibrant red flowers resembling a tube of lipstick."
+  },
+  {
+    "id": 41,
+    "name": "Tulsi (Holy Basil)",
+    "image": "https://example.com/tulsi.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "Average",
+    "temperature": "65–85°F",
+    "description": "A sacred and medicinal plant in Indian culture, known for its strong aroma and healing properties."
+  },
+  {
+    "id": 42,
+    "name": "Curry Tree (Murraya koenigii)",
+    "image": "https://example.com/curry-tree.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Water when the top inch of soil is dry",
+    "humidity": "Average to High",
+    "temperature": "60–90°F",
+    "description": "A small tree whose fragrant leaves are a staple ingredient in Indian and Sri Lankan cuisine."
+  },
+  {
+    "id": 43,
+    "name": "Jasmine (Motia/Mogra)",
+    "image": "https://example.com/jasmine.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Keep soil evenly moist, especially during blooming season",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "A vining plant cherished for its intensely fragrant white flowers, common in Indian gardens and ceremonies."
+  },
+  {
+    "id": 44,
+    "name": "Neem Tree (Azadirachta indica)",
+    "image": "https://example.com/neem.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Water when soil is dry, drought tolerant",
+    "humidity": "Low to Average",
+    "temperature": "60–100°F",
+    "description": "A fast-growing, medicinal tree known for its powerful anti-bacterial and anti-fungal properties."
+  },
+  {
+    "id": 45,
+    "name": "Areca Palm (Dypsis lutescens)",
+    "image": "https://example.com/areca-palm.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "High",
+    "temperature": "65–75°F",
+    "description": "A popular houseplant in India, valued for its feathery, arching fronds and air-purifying qualities."
+  },
+  {
+    "id": 46,
+    "name": "Ficus Benjamina (Weeping Fig)",
+    "image": "https://example.com/weeping-fig.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top inch of soil is dry",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "A classic indoor tree with graceful, arching branches and glossy leaves. Sensitive to being moved."
+  },
+  {
+    "id": 47,
+    "name": "Christmas Cactus",
+    "image": "https://example.com/christmas-cactus.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist during flowering, less when dormant",
+    "humidity": "High",
+    "temperature": "60–70°F",
+    "description": "A unique flowering cactus with flat, segmented stems and vibrant blooms in winter."
+  },
+  {
+    "id": 48,
+    "name": "Dwarf Umbrella Tree (Schefflera arboricola)",
+    "image": "https://example.com/dwarf-schefflera.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Water thoroughly, allowing soil to dry slightly",
+    "humidity": "Average",
+    "temperature": "60–75°F",
+    "description": "A smaller, more compact version of the Umbrella Tree, with glossy, oval leaves."
+  },
+  {
+    "id": 49,
+    "name": "Polka Dot Plant (Hypoestes)",
+    "image": "https://example.com/polka-dot.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "A small plant with brightly colored spots on its leaves, available in pink, white, and red."
+  },
+  {
+    "id": 50,
+    "name": "Wandering Jew (Tradescantia zebrina)",
+    "image": "https://example.com/wandering-jew.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil slightly moist",
+    "humidity": "Average to High",
+    "temperature": "60–80°F",
+    "description": "A fast-growing trailing plant with striking striped leaves of purple, silver, and green."
+  },
+  {
+    "id": 51,
+    "name": "Kalanchoe",
+    "image": "https://example.com/kalanchoe.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when soil is dry, drought tolerant",
+    "humidity": "Low",
+    "temperature": "60–85°F",
+    "description": "A succulent that produces clusters of small, colorful flowers during winter."
+  },
+  {
+    "id": 52,
+    "name": "Dumb Cane (Dieffenbachia seguine)",
+    "image": "https://example.com/dumb-cane.jpg",
+    "sunlight": "Medium Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "A classic houseplant with large, lush leaves. Highly toxic if ingested."
+  },
+  {
+    "id": 53,
+    "name": "Money Tree (Pachira aquatica)",
+    "image": "https://example.com/money-tree.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water deeply, allowing soil to dry slightly between waterings",
+    "humidity": "High",
+    "temperature": "65–80°F",
+    "description": "Often sold with a braided trunk, it's believed to bring good luck and prosperity."
+  },
+  {
+    "id": 54,
+    "name": "Ficus Lyrata 'Bambino'",
+    "image": "https://example.com/ficus-bambino.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Water when the top 2-3 inches of soil are dry",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "A compact version of the Fiddle Leaf Fig, with smaller leaves and a more manageable size."
+  },
+  {
+    "id": 55,
+    "name": "Fishbone Cactus",
+    "image": "https://example.com/fishbone-cactus.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Water when the soil is dry to the touch",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "A unique cactus with flat, zig-zagging stems that resemble a fishbone."
+  },
+  {
+    "id": 56,
+    "name": "Hoya Carnosa 'Tricolor'",
+    "image": "https://example.com/hoya-tricolor.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Allow soil to dry out completely between waterings",
+    "humidity": "High",
+    "temperature": "60–80°F",
+    "description": "A beautiful variegated Hoya with leaves in shades of pink, cream, and green."
+  },
+  {
+    "id": 57,
+    "name": "Zebra Plant (Aphelandra squarrosa)",
+    "image": "https://example.com/zebra-plant.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–75°F",
+    "description": "A plant with striking dark green leaves and prominent white or yellow stripes."
+  },
+  {
+    "id": 58,
+    "name": "Lithops (Living Stones)",
+    "image": "https://example.com/lithops.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Water only during new growth, very infrequently",
+    "humidity": "Low",
+    "temperature": "65–80°F",
+    "description": "A succulent that mimics the appearance of pebbles, known for its extreme drought tolerance."
+  },
+  {
+    "id": 59,
+    "name": "Oxalis triangularis (Purple Shamrock)",
+    "image": "https://example.com/oxalis.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil evenly moist",
+    "humidity": "Average",
+    "temperature": "60–75°F",
+    "description": "Features striking deep purple, triangular leaves that fold up at night."
+  },
+  {
+    "id": 60,
+    "name": "Peperomia 'Watermelon'",
+    "image": "https://example.com/peperomia-watermelon.jpg",
+    "sunlight": "Medium to Bright Indirect Light",
+    "water": "Allow soil to dry out partially between waterings",
+    "humidity": "Average to High",
+    "temperature": "65–80°F",
+    "description": "A compact plant with round, striped leaves that resemble a watermelon rind."
+  },
+  {
+    "id": 61,
+    "name": "Croton Petra",
+    "image": "https://example.com/croton-petra.jpg",
+    "sunlight": "Bright Direct Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "High",
+    "temperature": "65–85°F",
+    "description": "A popular Croton variety with vibrant leaves in shades of yellow, orange, and red."
+  },
+  {
+    "id": 62,
+    "name": "Begonia Maculata 'Wightii'",
+    "image": "https://example.com/begonia-maculata.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Allow soil to dry out slightly before watering",
+    "humidity": "High",
+    "temperature": "60–75°F",
+    "description": "Known for its stunning, silver polka-dotted leaves and red undersides."
+  },
+  {
+    "id": 63,
+    "name": "Tradescantia Nanouk",
+    "image": "https://example.com/tradescantia-nanouk.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil slightly moist",
+    "humidity": "Average to High",
+    "temperature": "60–80°F",
+    "description": "A colorful, fast-growing trailing plant with pink, purple, and green leaves."
+  },
+  {
+    "id": 64,
+    "name": "Coleus 'Chocolate Covered Cherry'",
+    "image": "https://example.com/coleus-chocolate.jpg",
+    "sunlight": "Bright Indirect Light",
+    "water": "Keep soil consistently moist",
+    "humidity": "Average",
+    "temperature": "60–75°F",
+    "description": "A stunning Coleus variety with deep burgundy leaves and a bright green, ruffled edge."
+  }
+]

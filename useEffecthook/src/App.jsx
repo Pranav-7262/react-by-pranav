@@ -11,12 +11,13 @@ function App() {
     // This will run only once when the component mounts or updates!!
     console.log("useEffect called");
     // callOnce();
-    // countChange(); // This will run every time count changes
-    dataChange(); // This will run every time data changes
-  }, [data]); // Dependency array with count
+    countChange(); // This will run every time count changes
+    // dataChange(); // This will run every time data changes
+  }, []); // Dependency array with count
   function callOnce() {
     console.log("callOnce function called ");
   }
+
   function countChange() {
     console.log("Count changed", count);
   }
