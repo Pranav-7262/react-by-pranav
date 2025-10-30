@@ -55,7 +55,7 @@ const App = () => {
   };
   return (
     <div className="min-h-screen bg-base-200">
-      <header className="bg-primary text-primary-content p-4">
+      <header className="bg-primary text-primary-content p-4 ">
         <div className="container mx-auto">
           <h1 className="text-3xl font-bold">News App</h1>
         </div>
